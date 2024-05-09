@@ -1,5 +1,4 @@
 ﻿CREATE TABLE [dbo].[cliente] (
-    [ID_cliente] INT          NOT NULL,
     [nome]       VARCHAR (50) NOT NULL,
     [endereco]   VARCHAR (80) NOT NULL,
     [telefone]   VARCHAR (35) NOT NULL,
