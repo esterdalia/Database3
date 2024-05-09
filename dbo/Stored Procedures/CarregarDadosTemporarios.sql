@@ -9,8 +9,8 @@ BEGIN
     BULK INSERT CargaPedido
     FROM 'C:\Users\ester\OneDrive\Documentos\MATERIAS FAETERJ\5SBD\FTP\Amazon\arquivo.csv'
     WITH (
-        FIELDTERMINATOR = ';',
-        ROWTERMINATOR = '\n',
-        FIRSTROW = 2 -- Pular a primeira linha se for cabeçalho
+        FIELDTERMINATOR = ';', -- Delimitador de campo do arquivo CSV
+        ROWTERMINATOR = '\n',-- Delimitador de linha do arquivo CSV
+        FIRSTROW = 2 -- Pular a primeira linha q é o cabeçalho
     );
 END;

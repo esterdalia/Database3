@@ -1,0 +1,10 @@
+C:\Users\ester\source\repos\Database3\bin\Debug\Database3.dacpac
+C:\Users\ester\source\repos\Database3\bin\Debug\Database3.dll
+C:\Users\ester\source\repos\Database3\bin\Debug\Database3.pdb
+C:\Users\ester\source\repos\Database3\obj\Debug\Database3.sqlproj.AssemblyReference.cache
+C:\Users\ester\source\repos\Database3\obj\Debug\Database3.dll
+C:\Users\ester\source\repos\Database3\obj\Debug\Database3.pdb
+C:\Users\ester\source\repos\Database3\obj\Debug\Model.xml
+C:\Users\ester\source\repos\Database3\obj\Debug\refactor.xml
+C:\Users\ester\source\repos\Database3\obj\Debug\postdeploy.sql
+C:\Users\ester\source\repos\Database3\obj\Debug\predeploy.sql

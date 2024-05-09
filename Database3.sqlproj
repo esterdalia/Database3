@@ -155,5 +155,13 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
     <Build Include="Security\Permissions.sql" />
+    <Build Include="Procedure1.sql" />
+    <Build Include="dbo\Stored Procedures\ProcessarPedidos.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Database3.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="gitignore.txt" />
   </ItemGroup>
 </Project>

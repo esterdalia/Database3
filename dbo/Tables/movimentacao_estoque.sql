@@ -4,7 +4,10 @@
     [DataMovimentacao] DATETIME     NULL,
     [Quantidade]       INT          NULL,
     [TipoMovimentacao] VARCHAR (20) NULL,
-    PRIMARY KEY CLUSTERED ([ID_movimentacao] ASC),
-    FOREIGN KEY ([ID_produto]) REFERENCES [dbo].[produto] ([ID_produto])
+    PRIMARY KEY CLUSTERED ([ID_movimentacao] ASC)
 );
+
+
+
+
 
