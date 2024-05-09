@@ -1,0 +1,89 @@
+09/05/2024 10:17:10	Este log contém informações sobre a operação do esquema importado no projeto 'Database3' no computador 'LAPTOP-YUNA' pelo usuário 'ester'.
+09/05/2024 10:17:11	A importação do esquema de banco de dados foi iniciada.
+09/05/2024 10:17:20	Coletando credenciais do banco de dados
+09/05/2024 10:17:20	Coletando opções de banco de dados
+09/05/2024 10:17:20	Reunindo a opção de configuração no escopo do banco de dados genérico
+09/05/2024 10:17:20	Coletando usuários
+09/05/2024 10:17:20	Coletando funções
+09/05/2024 10:17:20	Coletando funções de aplicativo
+09/05/2024 10:17:20	Coletando associações de função
+09/05/2024 10:17:20	Coletando grupos de arquivos
+09/05/2024 10:17:20	Coletando catálogos de texto completo
+09/05/2024 10:17:20	Coletando assemblies
+09/05/2024 10:17:20	Coletando certificados
+09/05/2024 10:17:20	Coletando chaves assimétricas
+09/05/2024 10:17:20	Coletando chaves simétricas
+09/05/2024 10:17:20	Coletando chaves simétricas criptografadas
+09/05/2024 10:17:20	Coletando esquemas
+09/05/2024 10:17:20	Coletando coleções de esquema XML
+09/05/2024 10:17:20	Coletando tipos de dados definidos pelo usuário
+09/05/2024 10:17:20	Coletando tipos definidos pelo usuário
+09/05/2024 10:17:20	Coletando tipos de tabela
+09/05/2024 10:17:20	Coletando chaves exclusivas para tipos de tabela
+09/05/2024 10:17:20	Coletando chaves primárias para tipos de tabela
+09/05/2024 10:17:21	Reunindo índices para tipos de tabela
+09/05/2024 10:17:21	Coletando restrições de verificação para tipos de tabela
+09/05/2024 10:17:21	Coletando restrições padrão para tipos de tabela
+09/05/2024 10:17:21	Coletando funções de partição
+09/05/2024 10:17:21	Coletando esquemas de partição
+09/05/2024 10:17:21	Coletando funções
+09/05/2024 10:17:21	Coletando funções criptografadas
+09/05/2024 10:17:21	Coletando agregações
+09/05/2024 10:17:21	Coletando procedimentos
+09/05/2024 10:17:21	Coletando procedimentos criptografados
+09/05/2024 10:17:21	Coletando tabelas
+09/05/2024 10:17:21	Coletando chaves primárias
+09/05/2024 10:17:21	Coletando restrições exclusivas
+09/05/2024 10:17:21	Coletando chaves estrangeiras
+09/05/2024 10:17:21	Coletando restrições padrão
+09/05/2024 10:17:21	Coletando restrições de verificação
+09/05/2024 10:17:21	Coletando exibições
+09/05/2024 10:17:21	Coletando exibições criptografadas
+09/05/2024 10:17:21	Coletando índices
+09/05/2024 10:17:21	Coletando estatísticas
+09/05/2024 10:17:21	Coletando listas de palavras irrelevantes de índice de texto completo
+09/05/2024 10:17:21	Coletando listas de propriedades de pesquisa
+09/05/2024 10:17:21	Coletando propriedades de pesquisa
+09/05/2024 10:17:21	Coletando índices de texto completo
+09/05/2024 10:17:21	Coletando índices de repositório de coluna
+09/05/2024 10:17:21	Coletando índices espaciais
+09/05/2024 10:17:21	Coletando índices XML
+09/05/2024 10:17:21	Reunindo índices XML Seletivos
+09/05/2024 10:17:21	Coletando gatilhos criptografados
+09/05/2024 10:17:21	Coletando gatilhos
+09/05/2024 10:17:21	Coletando gatilhos ddl criptografados e clr
+09/05/2024 10:17:21	Coletando gatilhos ddl
+09/05/2024 10:17:21	Criando restrições de borda
+09/05/2024 10:17:21	Coletando sinônimos
+09/05/2024 10:17:21	Coletando padrões
+09/05/2024 10:17:21	Coletando ligações uddt de restrições de dados
+09/05/2024 10:17:21	Coletando regras
+09/05/2024 10:17:21	Coletando ligações uddt de restrições de dados
+09/05/2024 10:17:21	Coletando tipos de mensagem
+09/05/2024 10:17:21	Coletando filas
+09/05/2024 10:17:21	Coletando contratos
+09/05/2024 10:17:21	Coletando serviços
+09/05/2024 10:17:21	Coletando notificações de eventos
+09/05/2024 10:17:21	Coletando ligações de serviço remoto
+09/05/2024 10:17:21	Coletando prioridades do agente
+09/05/2024 10:17:21	Coletando assinaturas
+09/05/2024 10:17:21	Coletando opções de compactação
+09/05/2024 10:17:21	Coletando tipos de sequência
+09/05/2024 10:17:21	Reunindo as políticas de segurança
+09/05/2024 10:17:21	Coletar chaves de criptografia de coluna
+09/05/2024 10:17:21	Coletando chaves mestre de coluna
+09/05/2024 10:17:21	Coletando fontes de dados externas
+09/05/2024 10:17:21	Coletando formatos de arquivo externo
+09/05/2024 10:17:21	Coletando tabelas externas
+09/05/2024 10:17:21	Coletando opções de compactação de índice XML
+09/05/2024 10:17:21	Coletando permissões de banco de dados
+09/05/2024 10:17:21	Coletando propriedades estendidas
+09/05/2024 10:17:21	Coletando assemblies
+09/05/2024 10:17:21	Coletando credenciais
+09/05/2024 10:17:21	Coletando logons
+09/05/2024 10:17:21	Coletando auditorias de servidor
+09/05/2024 10:17:23	Examinando projeto para elementos duplicados
+09/05/2024 10:17:23	Processamento de elementos duplicados concluído
+09/05/2024 10:17:24	Importação do banco de dados concluída.
+09/05/2024 10:17:24	Um resumo da importação foi salvo no seguinte local: C:\Users\ester\source\repos\Database3\Importar Logs de Esquema\Database3_20240509011710.log.
+09/05/2024 10:17:24	Clique em Concluir para continuar...

@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[CargaPedido] (
+    [order_id]           INT             NULL,
+    [order_item_id]      INT             NULL,
+    [purchase_date]      DATE            NULL,
+    [payments_date]      DATE            NULL,
+    [buyer_email]        VARCHAR (100)   NULL,
+    [buyer_name]         VARCHAR (100)   NULL,
+    [cpf]                VARCHAR (14)    NULL,
+    [buyer_phone_number] VARCHAR (20)    NULL,
+    [sku]                VARCHAR (50)    NULL,
+    [product_name]       VARCHAR (100)   NULL,
+    [quantity_purchased] INT             NULL,
+    [currency]           VARCHAR (3)     NULL,
+    [item_price]         DECIMAL (10, 2) NULL,
+    [ship_service_level] VARCHAR (50)    NULL,
+    [recipient_name]     VARCHAR (100)   NULL,
+    [ship_address_1]     VARCHAR (100)   NULL,
+    [ship_address_2]     VARCHAR (100)   NULL,
+    [ship_address_3]     VARCHAR (100)   NULL,
+    [ship_city]          VARCHAR (50)    NULL,
+    [ship_state]         VARCHAR (50)    NULL,
+    [ship_postal_code]   VARCHAR (20)    NULL,
+    [ship_country]       VARCHAR (50)    NULL,
+    [ioss_number]        VARCHAR (50)    NULL
+);
+
