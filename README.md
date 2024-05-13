@@ -34,8 +34,8 @@ pedidos completos deve ser ordenado do maior valor para o menor. Assim os pedido
 com todos os produtos, devem ser atendidos primeiro. Para cada produto de cada pedido a ser
 processado, deve ser registrado na tabela de movimentação a quantidade do produto em estoque. Após
 o registro feito, o sistema deve debitar do estoque a quantidade debitada e atualizar o saldo para cada
-
-produto. Os pedidos que não forem atendidos em sua totalidade devem ser registrados na tabela de
+produto. 
+Os pedidos que não forem atendidos em sua totalidade devem ser registrados na tabela de
 compras com os dados do produto a ser comprado.
 Os produtos comprados, ao chegarem ao estoque, devem atualizar a tabela de produtos com o estoque.
 A atualização deve usar um arquivo CSV com os dados dos produtos entregues pelo fornecedor.
