@@ -157,6 +157,18 @@
     <Build Include="Security\Permissions.sql" />
     <Build Include="Procedure1.sql" />
     <Build Include="dbo\Stored Procedures\ProcessarPedidos.sql" />
+    <Build Include="dbo\Tables\Compras.sql">
+      <AnsiNulls>On</AnsiNulls>
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="dbo\Stored Procedures\RegistrarCompras.sql">
+      <AnsiNulls>On</AnsiNulls>
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="dbo\Stored Procedures\AtualizarEstoqueComCSV.sql">
+      <AnsiNulls>On</AnsiNulls>
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Database3.refactorlog" />

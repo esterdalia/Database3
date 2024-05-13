@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE CarregarDadosTemporarios
+﻿CREATE PROCEDURE [dbo].[CarregarDadosTemporarios]
 
 AS
 BEGIN
@@ -7,7 +7,7 @@ BEGIN
     TRUNCATE TABLE CargaPedido; -- Limpa a tabela temporária antes de carregar os novos dados
 
     BULK INSERT CargaPedido
-    FROM 'C:\Users\ester\OneDrive\Documentos\MATERIAS FAETERJ\5SBD\FTP\Amazon\arquivo.csv'
+    FROM 'C:\Users\ester\source\repos\Database3\arquivosCSV\carga.csv'
     WITH (
         FIELDTERMINATOR = ';', -- Delimitador de campo do arquivo CSV
         ROWTERMINATOR = '\n',-- Delimitador de linha do arquivo CSV
