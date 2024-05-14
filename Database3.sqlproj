@@ -161,11 +161,11 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Stored Procedures\RegistrarCompras.sql">
+    <Build Include="dbo\Stored Procedures\AtualizarEstoqueComCSV.sql">
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Stored Procedures\AtualizarEstoqueComCSV.sql">
+    <Build Include="dbo\Stored Procedures\RegistrarMovimentacaoEstoque.sql">
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
