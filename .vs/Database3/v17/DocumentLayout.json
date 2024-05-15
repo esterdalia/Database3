@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ester\\source\\repos\\Database3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|solutionrelative:dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Tables\\CargaPedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|solutionrelative:dbo\\Tables\\CargaPedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Tables\\CargaPedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|solutionrelative:dbo\\Tables\\CargaPedido.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FD0F4E0E-E98C-4371-972E-1E82F6623AD8}|Database3.sqlproj|solutionrelative:dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,11 +38,29 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtualizarEstoqueComCSV.sql ",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql",
+              "RelativeDocumentMoniker": "dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Stored Procedures\\AtualizarEstoqueComCSV.sql\r\nLAPTOP-YUNA.5SBD\r\n(LAPTOP-YUNA\\ester)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T16:34:52.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargaPedido.sql ",
+              "DocumentMoniker": "C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Tables\\CargaPedido.sql",
+              "RelativeDocumentMoniker": "dbo\\Tables\\CargaPedido.sql",
+              "ToolTip": "C:\\Users\\ester\\source\\repos\\Database3\\dbo\\Tables\\CargaPedido.sql\r\nLAPTOP-YUNA.5SBD\r\n(LAPTOP-YUNA\\ester)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T16:00:07.969Z",
+              "EditorCaption": ""
             }
           ]
         }

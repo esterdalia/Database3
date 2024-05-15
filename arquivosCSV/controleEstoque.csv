@@ -1,6 +1,8 @@
-Nome_Produto,Valor,Estoque,SKU
-Mouse sem fio,25.99,200,SKUms001
-Teclado USB,35.50,150,SKUtc002
-Fone de Ouvido,19.99,100,SKUfo003
-HD Externo,89.99,80,SKUhd004
-Webcam HD,49.99,120,SKUweb005
+Nome_Produto,Valor,Estoque,SKU,Moeda
+Mouse sem fio,25.99,200,SKUms1,BRL
+Teclado USB,35.50,150,SKUtc2,BRL
+Fone de Ouvido,19.99,100,SKUfo3,BRL
+HD Externo,89.99,80,SKUhd004,BRL
+Webcam HD,49.99,120,SKUweb005,BRL
+Product 3,15.00,2,SKU003,USD
+Product 4,15.01,1,SKU004,USD

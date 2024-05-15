@@ -7,6 +7,16 @@
 );
 
 
+GO
+ALTER TABLE [dbo].[Itens_Pedido] NOCHECK CONSTRAINT [FK__Itens_Ped__ID_pe__7B5B524B];
+
+
+GO
+ALTER TABLE [dbo].[Itens_Pedido] NOCHECK CONSTRAINT [FK_ProdutoSku];
+
+
+
+
 
 
 
